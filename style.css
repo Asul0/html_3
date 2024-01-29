@@ -1,0 +1,16 @@
+/* Обнуление стилей */
+body, h1, h2, p, ul, li, button, img {
+    margin: 0;
+    padding: 0;
+}
+
+/* Добавление отступов */
+body {
+    margin: 20px;
+}
+
+header, section, footer {
+    margin-bottom: 20px;
+}
+
+/* Добавьте стили для остальных элементов по мере необходимости */
